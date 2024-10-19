@@ -1,0 +1,76 @@
+{
+    "fixture": "Leicester vs Nottingham",
+    "head_to_head": {
+        "teams": {
+            "match_one": [],
+            "match_two": [
+                "Leicester",
+                "Nottingham"
+            ],
+            "match_three": [
+                "Nottingham",
+                "Leicester"
+            ]
+        },
+        "goals": {
+            "match_one": [],
+            "match_two": [
+                4,
+                0
+            ],
+            "match_three": []
+        },
+        "x_goals": {
+            "match_one": [],
+            "match_two": [],
+            "match_three": []
+        },
+        "corners": {
+            "match_one": [],
+            "match_two": [
+                6,
+                6
+            ],
+            "match_three": [
+                4,
+                8
+            ]
+        },
+        "fouls": {
+            "match_one": [],
+            "match_two": [
+                13,
+                12
+            ],
+            "match_three": [
+                17,
+                14
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                0,
+                0
+            ],
+            "match_two": [
+                0,
+                2
+            ],
+            "match_three": [
+                0,
+                0
+            ]
+        },
+        "FT_cards": {
+            "match_one": [],
+            "match_two": [
+                2,
+                4
+            ],
+            "match_three": [
+                1,
+                2
+            ]
+        }
+    }
+}
